@@ -152,7 +152,7 @@ This project is released under the **MIT License**.
 
 # 👨‍💻 Author
 
-**Chinmay V Chatradamath**
+**Chinmay V Chatradamath.**
 
 GitHub
 https://github.com/iqroguerex-cpu
